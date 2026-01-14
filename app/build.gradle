@@ -3,12 +3,18 @@ plugins {
 }
 
 android {
-    namespace 'com.example.porterhook'  // <--- Ye line HONI CHAHIYE
-    // baaki code...
+    namespace 'com.example.porterhook'
+    compileSdk 33  // <-- Ye line gayab thi, ab wapas aa gayi hai
+
+    defaultConfig {
+        applicationId "com.example.porterhook"
+        minSdk 24
+        targetSdk 33
+        versionCode 1
+        versionName "1.0"
+    }
 }
 
-
 dependencies {
-    // Sirf ye ek line honi chahiye
     compileOnly 'de.robv.android.xposed:api:82'
 }
