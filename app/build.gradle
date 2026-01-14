@@ -3,17 +3,10 @@ plugins {
 }
 
 android {
-    namespace 'com.example.porterhook'
-    compileSdk 33
-
-    defaultConfig {
-        applicationId "com.example.porterhook"
-        minSdk 24
-        targetSdk 33
-        versionCode 1
-        versionName "1.0"
-    }
+    namespace 'com.example.porterhook'  // <--- Ye line HONI CHAHIYE
+    // baaki code...
 }
+
 
 dependencies {
     // Sirf ye ek line honi chahiye
