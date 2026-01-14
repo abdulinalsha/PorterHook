@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace 'com.example.porterhook'
-    compileSdk 33  // <-- Ye line gayab thi, ab wapas aa gayi hai
+    compileSdk 33   // <--- Ye line 100% honi chahiye, warna error aayega!
 
     defaultConfig {
         applicationId "com.example.porterhook"
