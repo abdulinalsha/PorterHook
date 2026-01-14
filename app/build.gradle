@@ -3,9 +3,7 @@ plugins {
 }
 
 android {
-    // Ye line sabse zaroori hai (Github ke liye)
     namespace 'com.example.porterhook'
-    
     compileSdk 33
 
     defaultConfig {
@@ -15,14 +13,9 @@ android {
         versionCode 1
         versionName "1.0"
     }
-
-    compileOptions {
-        sourceCompatibility JavaVersion.VERSION_17
-        targetCompatibility JavaVersion.VERSION_17
-    }
 }
 
 dependencies {
-    // Xposed API
+    // Sirf ye ek line honi chahiye, 'classpath' wali line yahan NAHI honi chahiye
     compileOnly 'de.robv.android.xposed:api:82'
 }
