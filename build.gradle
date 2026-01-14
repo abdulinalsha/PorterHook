@@ -1,7 +1,18 @@
 buildscript {
-    repositories { google(); mavenCentral() }
-    dependencies { classpath 'com.android.tools.build:gradle:8.2.2' }
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        // Classpath sirf YAHAN hona chahiye
+        classpath 'com.android.tools.build:gradle:8.2.2'
+    }
 }
+
 allprojects {
-    repositories { google(); mavenCentral(); maven { url 'https://jitpack.io' } }
+    repositories {
+        google()
+        mavenCentral()
+        maven { url 'https://jitpack.io' }
+    }
 }
