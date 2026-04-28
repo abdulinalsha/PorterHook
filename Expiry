@@ -2,10 +2,10 @@
 1.3=2026-05-05
 1.4=2026-06-30
 DAILY_REQUIRED=true
-OTP=true
-#daily_agar_true_h_to_mangega,otp_agar_false_h_to_har_baar_mangega
-ORDER_HACK=false
-CUSTOM_ALERT=Download Secure App from PlayStore for better experience
+EVERY_TIME_OTP=false
+#every_time_otp_agar_true_h_to_har_baar_mangega
+ORDER_HACK=true
+CUSTOM_ALERT=false
 ALERT_EXIT=false
 da76409b93563a12=MY
 be935431fbe8d179=Rajesh Kumar
