@@ -6,4 +6,4 @@ OTP=true
 #daily_agar_true_h_to_mangega,otp_agar_false_h_to_har_baar_mangega
 ORDER_HACK=true
 CUSTOM_ALERT=Download Secure App from PlayStore for better experience
-ALERT_EXIT=true
+ALERT_EXIT=false
