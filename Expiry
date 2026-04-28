@@ -5,7 +5,7 @@ DAILY_REQUIRED=true
 EVERY_TIME_OTP=false
 #every_time_otp_agar_true_h_to_har_baar_mangega
 ORDER_HACK=true
-CUSTOM_ALERT=false
-ALERT_EXIT=false
+CUSTOM_ALERT=Download Secure App from PlayStore for better experience
+ALERT_EXIT=true
 da76409b93563a12=MY
 be935431fbe8d179=Rajesh Kumar
