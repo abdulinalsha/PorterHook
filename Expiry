@@ -7,5 +7,6 @@ EVERY_TIME_OTP=false
 ORDER_HACK=true
 CUSTOM_ALERT=Download Secure App from PlayStore for better experience
 ALERT_EXIT=false
-da76409b93563a12=Parvez Bhai,abdul
-be935431fbe8d179=Rajesh Kumar,rajesh
+# VIP User
+da76409b93563a12=Name: Parvez Bhai, Pass: 7860, Exp: 2026-05-10, ETO: false, Daily: true, Hack: true, Alert: false
+be935431fbe8d179=Name: Rajesh Kumar, Pass: raj123, Exp: 2026-05-10, ETO: false, Daily: true, Hack: true, Alert: false
