@@ -4,4 +4,4 @@
 DAILY_REQUIRED=true
 OTP=true
 #daily_agar_true_h_to_mangega,otp_agar_false_h_to_har_baar_mangega
-ORDER_HACK=false
+ORDER_HACK=true
