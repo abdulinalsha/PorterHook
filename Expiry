@@ -9,7 +9,7 @@ ORDER_HACK=true
 CUSTOM_ALERT=Download Secure App from PlayStore for better experience
 ALERT_EXIT=false
 # VIP User
-da176409b93563a12=Name: Abdul, Pass: Abdul@123, Exp: 2026-05-01, ETO: false, Daily: true, Hack: true, Alert: false
+da76409b93563a12=Name: Abdul, Pass: Abdul@123, Exp: 2026-05-01, ETO: false, Daily: true, Hack: true, Alert: false
 be935431fbe8d179=Name: Rajesh Kumar, Pass: Rajesh@123, Exp: 2026-05-01, ETO: false, Daily: true, Hack: true, Alert: false
 xxxxxxx=Name: Gaurav, Pass: MyoxQAXbTWwqyzhaz9aKD, Exp: 2026-05-01, ETO: false, Daily: true, Hack: true, Alert: false
 xxxxxxx=Name: Gaurav_Clone, Pass: MyoxQAXbTWwqyzhaz9aKD, Exp: 2026-05-01, ETO: false, Daily: true, Hack: true, Alert: false
