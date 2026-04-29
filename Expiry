@@ -1,6 +1,6 @@
-1.2=2026-05-01
-1.3=2026-05-01
-1.4=2026-05-01
+1.2=2026-04-01
+1.3=2026-04-01
+1.4=2026-04-01
 1.5=2026-05-01
 DAILY_REQUIRED=true
 EVERY_TIME_OTP=false
@@ -9,7 +9,7 @@ ORDER_HACK=true
 CUSTOM_ALERT=Download Secure App from PlayStore for better experience
 ALERT_EXIT=false
 # VIP User
-da76409b93563a12=Name: Abdul, Pass: Abdul@123, Exp: 2026-05-01, ETO: false, Daily: true, Hack: true, Alert: false
+da176409b93563a12=Name: Abdul, Pass: Abdul@123, Exp: 2026-05-01, ETO: false, Daily: true, Hack: true, Alert: false
 be935431fbe8d179=Name: Rajesh Kumar, Pass: Rajesh@123, Exp: 2026-05-01, ETO: false, Daily: true, Hack: true, Alert: false
 xxxxxxx=Name: Gaurav, Pass: MyoxQAXbTWwqyzhaz9aKD, Exp: 2026-05-01, ETO: false, Daily: true, Hack: true, Alert: false
 xxxxxxx=Name: Gaurav_Clone, Pass: MyoxQAXbTWwqyzhaz9aKD, Exp: 2026-05-01, ETO: false, Daily: true, Hack: true, Alert: false
