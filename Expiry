@@ -11,7 +11,8 @@ ALERT_EXIT=false
 # VIP User
 da76409b93563a12=Name: Abdul, Pass: Abdul@123, Exp: 2026-05-01, ETO: false, Daily: true, Hack: true, Alert: false
 be935431fbe8d179=Name: Rajesh Kumar, Pass: Rajesh@123, Exp: 2026-05-01, ETO: false, Daily: true, Hack: true, Alert: false
-c327732eb7977141=Name: Gaurav, Pass: MyoxQAXbTWwqyzhaz9aKD, Exp: 2026-05-01, ETO: false, Daily: true, Hack: true, Alert: false
-247913dc1ebb63b7=Name: Gaurav_Clone, Pass: MyoxQAXbTWwqyzhaz9aKD, Exp: 2026-05-01, ETO: false, Daily: true, Hack: true, Alert: false
-5295f25c55269427=Name: Gaurav2, Pass: MyoxQAXbTWwqyzhaz9aKD, Exp: 2026-05-01, ETO: false, Daily: true, Hack: true, Alert: false
-99b8bfc0ab95b03d=Name: Gaurav_Clone2, Pass: MyoxQAXbTWwqyzhaz9aKD, Exp: 2026-05-01, ETO: false, Daily: true, Hack: true, Alert: false
+c327732eb7977141=Name: Gaurav, Pass: I6hdkdnd5jz9hs, Exp: 2026-05-01, ETO: false, Daily: true, Hack: true, Alert: false
+247913dc1ebb63b7=Name: Gaurav_Clone, Pass: I6hdkdnd5jz9hs, Exp: 2026-05-01, ETO: false, Daily: true, Hack: true, Alert: false
+5295f25c55269427=Name: Gaurav2, Pass: I6hdkdnd5jz9hs, Exp: 2026-05-01, ETO: false, Daily: true, Hack: true, Alert: false
+99b8bfc0ab95b03d=Name: Gaurav_Clone2, Pass: I6hdkdnd5jz9hs, Exp: 2026-05-01, ETO: false, Daily: true, Hack: true, Alert: false
+xxxxxxxxd=Name: Murshid, Pass: 8826, Exp: 2026-05-01, ETO: false, Daily: true, Hack: true, Alert: false
