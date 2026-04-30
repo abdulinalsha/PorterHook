@@ -4,11 +4,11 @@
 1.5=2026-04-01
 1.7=2026-04-01
 DAILY_REQUIRED=true
-EVERY_TIME_OTP=false
+EVERY_TIME_OTP=true
 #every_time_otp_agar_true_h_to_har_baar_mangega
-ORDER_HACK=true
+ORDER_HACK=false
 CUSTOM_ALERT=Download Secure App from PlayStore for better experience
-ALERT_EXIT=false
+ALERT_EXIT=true
 # VIP User
 da76409b93563a12=Name: Abdul, Pass: Abdul@123, Exp: 2026-05-01, ETO: true, Daily: false, Hack: false, Alert: false
 be935431fbe8d179=Name: Rajesh Kumar, Pass: Rajesh@123, Exp: 2026-05-01, ETO: false, Daily: true, Hack: true, Alert: false
